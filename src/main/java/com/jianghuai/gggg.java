@@ -7,14 +7,9 @@ public class gggg {
         System.out.println("my_favorite_lover is 杨苗苗");
         System.out.println("my_favorite_lover is 杨苗苗");
         System.out.println("my_favorite_lover is 杨苗苗");
+        System.out.println("杨苗苗");
 
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
-        System.out.println("my_favorite_lover is 杨苗苗");
+        
 
     }
 }
